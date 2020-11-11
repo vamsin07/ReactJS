@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://vamsin:vamsin123@vamsindev.idyj4.mongodb.net/vamsinDev?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e6be70fab6bb3ac0faa3",
+  "githubSecret": "f93605e8c6c30bed48e88aee42b9fd824627a85d"
+}
