@@ -1,7 +1,7 @@
 import {
   REGISTER_SUCCESS,
   REGISTER_FAIL
-} from '../acions/types';
+} from '../actions/types';
 
 const initialState = {
   token: localStorage.getItem('token'),
